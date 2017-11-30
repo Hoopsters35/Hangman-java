@@ -1,4 +1,4 @@
-package hangman;
+package src;
 
 public class Illustration {
 	public void zero () {
